@@ -83,7 +83,7 @@ Before you open up a codespace on a repository, you can create a development con
 **Wait about 60 seconds then refresh your repository landing page for the next step.**
 
 <footer>
-
+ 
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
